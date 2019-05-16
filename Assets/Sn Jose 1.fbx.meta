@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 2a72d0af14cda1d47b981410ba99e97b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Agua - Ondulada
+    100002: Baldosas - Blanco Mate 15x15
+    100004: "Baldosas - Marr\xF3n Claro 15x15"
+    100006: Baldosas - Mosaico Azul
+    100008: Baldosas - Tostado 30x30
+    100010: BLACK METALLIC
+    100012: BLUE 1
+    100014: "Canter\xEDa - 02"
+    100016: "Canter\xEDa - 12"
+    100018: "Cer\xE1mico - Porcelana"
+    100020: Estuco - Blanco Fino
+    100022: "Follaje - Hojas \xC1rbol Peque\xF1o"
+    100024: GDLM54_bark1
+    100026: GDLM55_leafs1
+    100028: GDLM68_defPict
+    100030: GDLM75_builtInMatBlackTyre
+    100032: GDLM78_builtInMatLampBulb
+    100034: GDLM79_builtInMatIlluminatio
+    100036: GREY  DARK
+    100038: GREY 2
+    100040: GREY 9
+    100042: Hierba - Verde
+    100044: "Hormig\xF3n - 02"
+    100046: "Hormig\xF3n - 04"
+    100048: "Ladrillo - Aparejo Com\xFAn"
+    100050: "Ladrillo - Marr\xF3n"
+    100052: Ladrillo - Rojo
+    100054: Ladrillo - Viejo Natural
+    100056: LEATHER BLACK
+    100058: Lino - Gris
+    100060: Madera - Caoba Horizontal
+    100062: Madera - Caoba Vertical
+    100064: Madera - Nogal Horizontal
+    100066: Madera - Nogal Vertical
+    100068: Madera - Pino Granulado Horizontal
+    100070: Madera - Pino Granulado Vertical
+    100072: Madera - Roble Claro
+    100074: Metal - Acero Inoxidable
+    100076: Metal - Aluminio
+    100078: Metal - Cromo 01
+    100080: Metal - Hierro
+    100082: "Metal - N\xEDquel"
+    100084: Metal - Zinc
+    100086: Pavimento - Asfalto Claro
+    100088: "Piedra - M\xE1rmol Carrara Blanco"
+    100090: "Piedra - M\xE1rmol Negro"
+    100092: Pintura- Antracita
+    100094: Pintura- Blanco Satinado
+    100096: Pintura- Cadmio Naranja
+    100098: Pintura- Gris Claro
+    100100: Pintura- Negro Marfil
+    100102: Pintura- Oroen Ocre
+    100104: Pintura- Titanio Blanco
+    100106: "Pl\xE1stico - Laminado"
+    100108: Revestimiento - Claro
+    100110: Revestimiento - Medio
+    100112: Revestimiento - Oscuro
+    100114: //RootNode
+    100116: Tablas - 01
+    100118: Tablas - 03
+    100120: Techo - Baldosa-60x60
+    100122: Tejas - Tablillas Asfalto Gris
+    100124: Textil - 01
+    100126: "Tierra - Marr\xF3n"
+    100128: Vidrio - Azul
+    100130: "Vidrio - Claro R\xE1pido"
+    100132: Vidrio - Espejo
+    100134: "Vidrio - L\xE1mpara"
+    100136: Vidrio - Satinado
+    100138: WHITE 1
+    100140: WHITE 2
+    100142: WOOD WALNUT
+    400000: Agua - Ondulada
+    400002: Baldosas - Blanco Mate 15x15
+    400004: "Baldosas - Marr\xF3n Claro 15x15"
+    400006: Baldosas - Mosaico Azul
+    400008: Baldosas - Tostado 30x30
+    400010: BLACK METALLIC
+    400012: BLUE 1
+    400014: "Canter\xEDa - 02"
+    400016: "Canter\xEDa - 12"
+    400018: "Cer\xE1mico - Porcelana"
+    400020: Estuco - Blanco Fino
+    400022: "Follaje - Hojas \xC1rbol Peque\xF1o"
+    400024: GDLM54_bark1
+    400026: GDLM55_leafs1
+    400028: GDLM68_defPict
+    400030: GDLM75_builtInMatBlackTyre
+    400032: GDLM78_builtInMatLampBulb
+    400034: GDLM79_builtInMatIlluminatio
+    400036: GREY  DARK
+    400038: GREY 2
+    400040: GREY 9
+    400042: Hierba - Verde
+    400044: "Hormig\xF3n - 02"
+    400046: "Hormig\xF3n - 04"
+    400048: "Ladrillo - Aparejo Com\xFAn"
+    400050: "Ladrillo - Marr\xF3n"
+    400052: Ladrillo - Rojo
+    400054: Ladrillo - Viejo Natural
+    400056: LEATHER BLACK
+    400058: Lino - Gris
+    400060: Madera - Caoba Horizontal
+    400062: Madera - Caoba Vertical
+    400064: Madera - Nogal Horizontal
+    400066: Madera - Nogal Vertical
+    400068: Madera - Pino Granulado Horizontal
+    400070: Madera - Pino Granulado Vertical
+    400072: Madera - Roble Claro
+    400074: Metal - Acero Inoxidable
+    400076: Metal - Aluminio
+    400078: Metal - Cromo 01
+    400080: Metal - Hierro
+    400082: "Metal - N\xEDquel"
+    400084: Metal - Zinc
+    400086: Pavimento - Asfalto Claro
+    400088: "Piedra - M\xE1rmol Carrara Blanco"
+    400090: "Piedra - M\xE1rmol Negro"
+    400092: Pintura- Antracita
+    400094: Pintura- Blanco Satinado
+    400096: Pintura- Cadmio Naranja
+    400098: Pintura- Gris Claro
+    400100: Pintura- Negro Marfil
+    400102: Pintura- Oroen Ocre
+    400104: Pintura- Titanio Blanco
+    400106: "Pl\xE1stico - Laminado"
+    400108: Revestimiento - Claro
+    400110: Revestimiento - Medio
+    400112: Revestimiento - Oscuro
+    400114: //RootNode
+    400116: Tablas - 01
+    400118: Tablas - 03
+    400120: Techo - Baldosa-60x60
+    400122: Tejas - Tablillas Asfalto Gris
+    400124: Textil - 01
+    400126: "Tierra - Marr\xF3n"
+    400128: Vidrio - Azul
+    400130: "Vidrio - Claro R\xE1pido"
+    400132: Vidrio - Espejo
+    400134: "Vidrio - L\xE1mpara"
+    400136: Vidrio - Satinado
+    400138: WHITE 1
+    400140: WHITE 2
+    400142: WOOD WALNUT
+    2100000: Pintura- Cadmio Naranja
+    2100002: "Metal - N\xEDquel"
+    2100004: "Vidrio - Claro R\xE1pido"
+    2100006: WHITE 2
+    2100008: "Canter\xEDa - 12"
+    2100010: Estuco - Blanco Fino
+    2100012: GDLM75_builtInMatBlackTyre
+    2100014: Metal - Zinc
+    2100016: "Tierra - Marr\xF3n"
+    2100018: Techo - Baldosa-60x60
+    2100020: "Ladrillo - Aparejo Com\xFAn"
+    2100022: Tablas - 01
+    2100024: Madera - Pino Granulado Vertical
+    2100026: Pintura- Antracita
+    2100028: Metal - Aluminio
+    2100030: "Piedra - M\xE1rmol Carrara Blanco"
+    2100032: Revestimiento - Claro
+    2100034: "Canter\xEDa - 02"
+    2100036: Vidrio - Satinado
+    2100038: Metal - Hierro
+    2100040: "Cer\xE1mico - Porcelana"
+    2100042: GREY  DARK
+    2100044: Baldosas - Tostado 30x30
+    2100046: BLACK METALLIC
+    2100048: GDLM78_builtInMatLampBulb
+    2100050: Pintura- Blanco Satinado
+    2100052: "Pl\xE1stico - Laminado"
+    2100054: Pintura- Gris Claro
+    2100056: "Ladrillo - Marr\xF3n"
+    2100058: WOOD WALNUT
+    2100060: GDLM79_builtInMatIlluminatio
+    2100062: Textil - 01
+    2100064: Pintura- Titanio Blanco
+    2100066: Baldosas - Mosaico Azul
+    2100068: Hierba - Verde
+    2100070: Tablas - 03
+    2100072: BLUE 1
+    2100074: Metal - Acero Inoxidable
+    2100076: "Hormig\xF3n - 02"
+    2100078: Tejas - Tablillas Asfalto Gris
+    2100080: "Hormig\xF3n - 04"
+    2100082: GDLM68_defPict
+    2100084: GDLM54_bark1
+    2100086: Lino - Gris
+    2100088: "Baldosas - Marr\xF3n Claro 15x15"
+    2100090: Pavimento - Asfalto Claro
+    2100092: Pintura- Negro Marfil
+    2100094: GDLM55_leafs1
+    2100096: Agua - Ondulada
+    2100098: Madera - Pino Granulado Horizontal
+    2100100: Vidrio - Azul
+    2100102: Madera - Caoba Horizontal
+    2100104: "Follaje - Hojas \xC1rbol Peque\xF1o"
+    2100106: WHITE 1
+    2100108: Madera - Roble Claro
+    2100110: Ladrillo - Viejo Natural
+    2100112: Madera - Caoba Vertical
+    2100114: LEATHER BLACK
+    2100116: "Piedra - M\xE1rmol Negro"
+    2100118: Revestimiento - Medio
+    2100120: GREY 9
+    2100122: Vidrio - Espejo
+    2100124: GREY 2
+    2100126: Pintura- Oroen Ocre
+    2100128: Revestimiento - Oscuro
+    2100130: Madera - Nogal Vertical
+    2100132: "Vidrio - L\xE1mpara"
+    2100134: Metal - Cromo 01
+    2100136: Ladrillo - Rojo
+    2100138: Baldosas - Blanco Mate 15x15
+    2100140: Madera - Nogal Horizontal
+    2300000: Agua - Ondulada
+    2300002: Baldosas - Blanco Mate 15x15
+    2300004: "Baldosas - Marr\xF3n Claro 15x15"
+    2300006: Baldosas - Mosaico Azul
+    2300008: Baldosas - Tostado 30x30
+    2300010: BLACK METALLIC
+    2300012: BLUE 1
+    2300014: "Canter\xEDa - 02"
+    2300016: "Canter\xEDa - 12"
+    2300018: "Cer\xE1mico - Porcelana"
+    2300020: Estuco - Blanco Fino
+    2300022: "Follaje - Hojas \xC1rbol Peque\xF1o"
+    2300024: GDLM54_bark1
+    2300026: GDLM55_leafs1
+    2300028: GDLM68_defPict
+    2300030: GDLM75_builtInMatBlackTyre
+    2300032: GDLM78_builtInMatLampBulb
+    2300034: GDLM79_builtInMatIlluminatio
+    2300036: GREY  DARK
+    2300038: GREY 2
+    2300040: GREY 9
+    2300042: Hierba - Verde
+    2300044: "Hormig\xF3n - 02"
+    2300046: "Hormig\xF3n - 04"
+    2300048: "Ladrillo - Aparejo Com\xFAn"
+    2300050: "Ladrillo - Marr\xF3n"
+    2300052: Ladrillo - Rojo
+    2300054: Ladrillo - Viejo Natural
+    2300056: LEATHER BLACK
+    2300058: Lino - Gris
+    2300060: Madera - Caoba Horizontal
+    2300062: Madera - Caoba Vertical
+    2300064: Madera - Nogal Horizontal
+    2300066: Madera - Nogal Vertical
+    2300068: Madera - Pino Granulado Horizontal
+    2300070: Madera - Pino Granulado Vertical
+    2300072: Madera - Roble Claro
+    2300074: Metal - Acero Inoxidable
+    2300076: Metal - Aluminio
+    2300078: Metal - Cromo 01
+    2300080: Metal - Hierro
+    2300082: "Metal - N\xEDquel"
+    2300084: Metal - Zinc
+    2300086: Pavimento - Asfalto Claro
+    2300088: "Piedra - M\xE1rmol Carrara Blanco"
+    2300090: "Piedra - M\xE1rmol Negro"
+    2300092: Pintura- Antracita
+    2300094: Pintura- Blanco Satinado
+    2300096: Pintura- Cadmio Naranja
+    2300098: Pintura- Gris Claro
+    2300100: Pintura- Negro Marfil
+    2300102: Pintura- Oroen Ocre
+    2300104: Pintura- Titanio Blanco
+    2300106: "Pl\xE1stico - Laminado"
+    2300108: Revestimiento - Claro
+    2300110: Revestimiento - Medio
+    2300112: Revestimiento - Oscuro
+    2300114: Tablas - 01
+    2300116: Tablas - 03
+    2300118: Techo - Baldosa-60x60
+    2300120: Tejas - Tablillas Asfalto Gris
+    2300122: Textil - 01
+    2300124: "Tierra - Marr\xF3n"
+    2300126: Vidrio - Azul
+    2300128: "Vidrio - Claro R\xE1pido"
+    2300130: Vidrio - Espejo
+    2300132: "Vidrio - L\xE1mpara"
+    2300134: Vidrio - Satinado
+    2300136: WHITE 1
+    2300138: WHITE 2
+    2300140: WOOD WALNUT
+    3300000: Agua - Ondulada
+    3300002: Baldosas - Blanco Mate 15x15
+    3300004: "Baldosas - Marr\xF3n Claro 15x15"
+    3300006: Baldosas - Mosaico Azul
+    3300008: Baldosas - Tostado 30x30
+    3300010: BLACK METALLIC
+    3300012: BLUE 1
+    3300014: "Canter\xEDa - 02"
+    3300016: "Canter\xEDa - 12"
+    3300018: "Cer\xE1mico - Porcelana"
+    3300020: Estuco - Blanco Fino
+    3300022: "Follaje - Hojas \xC1rbol Peque\xF1o"
+    3300024: GDLM54_bark1
+    3300026: GDLM55_leafs1
+    3300028: GDLM68_defPict
+    3300030: GDLM75_builtInMatBlackTyre
+    3300032: GDLM78_builtInMatLampBulb
+    3300034: GDLM79_builtInMatIlluminatio
+    3300036: GREY  DARK
+    3300038: GREY 2
+    3300040: GREY 9
+    3300042: Hierba - Verde
+    3300044: "Hormig\xF3n - 02"
+    3300046: "Hormig\xF3n - 04"
+    3300048: "Ladrillo - Aparejo Com\xFAn"
+    3300050: "Ladrillo - Marr\xF3n"
+    3300052: Ladrillo - Rojo
+    3300054: Ladrillo - Viejo Natural
+    3300056: LEATHER BLACK
+    3300058: Lino - Gris
+    3300060: Madera - Caoba Horizontal
+    3300062: Madera - Caoba Vertical
+    3300064: Madera - Nogal Horizontal
+    3300066: Madera - Nogal Vertical
+    3300068: Madera - Pino Granulado Horizontal
+    3300070: Madera - Pino Granulado Vertical
+    3300072: Madera - Roble Claro
+    3300074: Metal - Acero Inoxidable
+    3300076: Metal - Aluminio
+    3300078: Metal - Cromo 01
+    3300080: Metal - Hierro
+    3300082: "Metal - N\xEDquel"
+    3300084: Metal - Zinc
+    3300086: Pavimento - Asfalto Claro
+    3300088: "Piedra - M\xE1rmol Carrara Blanco"
+    3300090: "Piedra - M\xE1rmol Negro"
+    3300092: Pintura- Antracita
+    3300094: Pintura- Blanco Satinado
+    3300096: Pintura- Cadmio Naranja
+    3300098: Pintura- Gris Claro
+    3300100: Pintura- Negro Marfil
+    3300102: Pintura- Oroen Ocre
+    3300104: Pintura- Titanio Blanco
+    3300106: "Pl\xE1stico - Laminado"
+    3300108: Revestimiento - Claro
+    3300110: Revestimiento - Medio
+    3300112: Revestimiento - Oscuro
+    3300114: Tablas - 01
+    3300116: Tablas - 03
+    3300118: Techo - Baldosa-60x60
+    3300120: Tejas - Tablillas Asfalto Gris
+    3300122: Textil - 01
+    3300124: "Tierra - Marr\xF3n"
+    3300126: Vidrio - Azul
+    3300128: "Vidrio - Claro R\xE1pido"
+    3300130: Vidrio - Espejo
+    3300132: "Vidrio - L\xE1mpara"
+    3300134: Vidrio - Satinado
+    3300136: WHITE 1
+    3300138: WHITE 2
+    3300140: WOOD WALNUT
+    4300000: Pintura- Cadmio Naranja
+    4300002: "Metal - N\xEDquel"
+    4300004: "Vidrio - Claro R\xE1pido"
+    4300006: WHITE 2
+    4300008: "Canter\xEDa - 12"
+    4300010: Estuco - Blanco Fino
+    4300012: GDLM75_builtInMatBlackTyre
+    4300014: Metal - Zinc
+    4300016: "Tierra - Marr\xF3n"
+    4300018: Techo - Baldosa-60x60
+    4300020: "Ladrillo - Aparejo Com\xFAn"
+    4300022: Tablas - 01
+    4300024: Madera - Pino Granulado Vertical
+    4300026: Pintura- Antracita
+    4300028: Metal - Aluminio
+    4300030: "Piedra - M\xE1rmol Carrara Blanco"
+    4300032: Revestimiento - Claro
+    4300034: "Canter\xEDa - 02"
+    4300036: Vidrio - Satinado
+    4300038: Metal - Hierro
+    4300040: "Cer\xE1mico - Porcelana"
+    4300042: GREY  DARK
+    4300044: Baldosas - Tostado 30x30
+    4300046: BLACK METALLIC
+    4300048: GDLM78_builtInMatLampBulb
+    4300050: Pintura- Blanco Satinado
+    4300052: "Pl\xE1stico - Laminado"
+    4300054: Pintura- Gris Claro
+    4300056: "Ladrillo - Marr\xF3n"
+    4300058: WOOD WALNUT
+    4300060: GDLM79_builtInMatIlluminatio
+    4300062: Textil - 01
+    4300064: Pintura- Titanio Blanco
+    4300066: Baldosas - Mosaico Azul
+    4300068: Hierba - Verde
+    4300070: Tablas - 03
+    4300072: BLUE 1
+    4300074: Metal - Acero Inoxidable
+    4300076: "Hormig\xF3n - 02"
+    4300078: Tejas - Tablillas Asfalto Gris
+    4300080: "Hormig\xF3n - 04"
+    4300082: GDLM68_defPict
+    4300084: GDLM54_bark1
+    4300086: Lino - Gris
+    4300088: "Baldosas - Marr\xF3n Claro 15x15"
+    4300090: Pavimento - Asfalto Claro
+    4300092: Pintura- Negro Marfil
+    4300094: GDLM55_leafs1
+    4300096: Agua - Ondulada
+    4300098: Madera - Pino Granulado Horizontal
+    4300100: Vidrio - Azul
+    4300102: Madera - Caoba Horizontal
+    4300104: "Follaje - Hojas \xC1rbol Peque\xF1o"
+    4300106: WHITE 1
+    4300108: Madera - Roble Claro
+    4300110: Ladrillo - Viejo Natural
+    4300112: Madera - Caoba Vertical
+    4300114: LEATHER BLACK
+    4300116: "Piedra - M\xE1rmol Negro"
+    4300118: Revestimiento - Medio
+    4300120: GREY 9
+    4300122: Vidrio - Espejo
+    4300124: GREY 2
+    4300126: Pintura- Oroen Ocre
+    4300128: Revestimiento - Oscuro
+    4300130: Madera - Nogal Vertical
+    4300132: "Vidrio - L\xE1mpara"
+    4300134: Metal - Cromo 01
+    4300136: Ladrillo - Rojo
+    4300138: Baldosas - Blanco Mate 15x15
+    4300140: Madera - Nogal Horizontal
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
